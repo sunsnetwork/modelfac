@@ -1,0 +1,8 @@
+streamlit
+xgboost
+pandas
+matplotlib
+shap
+streamlit-authenticator
+scikit-learn
+pyyaml
